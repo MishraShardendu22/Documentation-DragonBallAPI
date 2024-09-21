@@ -1,16 +1,10 @@
-# Dragon Ball API Documentation
+# [Dragon Ball API : Documentation](https://shardendu-mishra-documentation-dragon-ball-api.vercel.app/)
 
 ## Made With The Help of [Nextra : Next.js-based documentation framework](https://nextra.site/)
 <img src="https://imgs.search.brave.com/3-gyYRJvSdvXgTIb5RkQwvP1bPTV3NkCfVCqtJlJh_M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/MC5zZWN1cml0eW9u/bGluZS5pbmZvL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzA5/L05leHRqcy1sb2dv/LnN2Z18ucG5n" alt="Nextra: Next.js-based documentation framework" width="400"/>
 
 
 Welcome to the **Dragon Ball API**! This API provides access to a wide range of information from the Dragon Ball universe, allowing you to explore characters, episodes, and much more.
-
-## Documentation
-
-You can find the full documentation for the Dragon Ball API at the following link:
-
-[View Documentation](https://shardendu-mishra-documentation-dragon-ball-api.vercel.app/)
 
 ## Features
 
